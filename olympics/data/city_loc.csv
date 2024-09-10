@@ -1,0 +1,30 @@
+Year,City,latitude,longitude,Country
+1896,Athens,34.80243 |,-86.97219,Greece
+1900,Paris,48.85341 |,2.3488,France
+1904,St. Louis,38.62727 |,-90.19789,USA
+1908,London,42.98339 |,-81.23304,UK
+1912,Stockholm,59.33258 |,18.0649,Sweden
+1920,Antwerpen,51.21989 |,4.40346,Belgium
+1924,Paris,48.85341 |,2.3488,France
+1928,Amsterdam,52.37403 |,4.88969,Netherlan
+1932,Los Angeles,-37.46973|,-72.35366,USA
+1936,Berlin,52.52437 |,13.41053,Germany
+1948,London,42.98339 |,-81.23304,UK
+1952,Helsinki,60.16952 |,24.93545,Finland
+1956,Stockholm,59.33258 |,18.0649,Sweden
+1956,Melbourne,-37.814  |,144.96332,Australia
+1960,Rome,34.25704 |,-85.16467,Italy
+1964,Tokyo,35.6895  |,139.69171,Japan
+1968,Mexico City,19.42847 |,-99.12766,Mexico
+1972,Munich,48.13743 |,11.57549,Germany
+1976,Montreal,45.50884 |,-73.58781,Canada
+1980,Moscow,55.75222 |,37.61556,Russia
+1984,Los Angeles,34.05223 |,-118.24368,USA
+1988,Seoul,37.566   |,126.9784,South Kor
+1992,Barcelona,41.38879 |,2.15899,Spain
+1996,Atlanta,33.749   |,-84.38798,USA
+2000,Sydney,-33.86785|,151.20732,Australia
+2004,Athens,39.32924 |,-82.10126,Greece
+2008,Beijing,39.9075  |,116.39723,China
+2012,London,51.50853 |,-0.12574,UK
+2016,Rio de Janeiro,-22.90278|,-43.2075,Brazil
