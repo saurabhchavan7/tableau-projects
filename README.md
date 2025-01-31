@@ -4,7 +4,7 @@ This repository includes Tableau projects that involve data visualization and an
 
 ### Projects
 
-### ## 4. Desalination Investment Analysis (Ongoing Project)
+### 4. Desalination Investment Analysis (Ongoing Project)
 
 ### Overview
 This project focuses on optimizing desalination investments across the United States. The aim is to identify water-stressed regions, evaluate economic demand for desalinated water, and determine the feasibility of desalination projects. The analysis leverages Tableau for visualizing key insights derived from water usage, population, and desalination feasibility data.
