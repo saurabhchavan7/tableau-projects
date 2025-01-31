@@ -4,25 +4,25 @@ This repository includes Tableau projects that involve data visualization and an
 
 ### Projects
 
-### 4. Desalination Investment Analysis (Ongoing Project)
+#### 4. Desalination Investment Analysis (Ongoing Project)
 
-### Overview
+**Overview**
 This project focuses on optimizing desalination investments across the United States. The aim is to identify water-stressed regions, evaluate economic demand for desalinated water, and determine the feasibility of desalination projects. The analysis leverages Tableau for visualizing key insights derived from water usage, population, and desalination feasibility data.
 
-### Goal
+**Goal**
 The primary goal of this project is to create an interactive Tableau dashboard that:
 - Highlights the most water-stressed states in the U.S.
 - Identifies regions with the highest economic water demand.
 - Evaluates the feasibility of desalination investments based on factors like water withdrawals, population, and saline water availability.
 
-### Current Progress
+**Current Progress**
 - **Data Collection**: Compiled datasets from credible sources such as USGS, EPA, and Census Bureau.
 - **Data Preparation**: Calculated key metrics such as Water Stress Index (WSI), Per Capita Freshwater Demand, and Desalination Feasibility Score using Python and Excel.
 - **Dashboard Development**: 
   - Created KPI cards for most water-stressed state, highest economic water demand, and best desalination site.
   - Built an interactive map to visualize feasibility scores and water withdrawals across states.
 
-### Next Steps
+ **Next Steps**
 - Add interactive filters for region and feasibility score ranges.
 - Refine dashboard aesthetics by adding borders, legends, and enhanced tooltips.
 - Incorporate additional insights, such as renewable energy options for desalination plants.
