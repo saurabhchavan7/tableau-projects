@@ -4,6 +4,34 @@ This repository includes Tableau projects that involve data visualization and an
 
 ### Projects
 
+### ## 4. Desalination Investment Analysis (Ongoing Project)
+
+### Overview
+This project focuses on optimizing desalination investments across the United States. The aim is to identify water-stressed regions, evaluate economic demand for desalinated water, and determine the feasibility of desalination projects. The analysis leverages Tableau for visualizing key insights derived from water usage, population, and desalination feasibility data.
+
+### Goal
+The primary goal of this project is to create an interactive Tableau dashboard that:
+- Highlights the most water-stressed states in the U.S.
+- Identifies regions with the highest economic water demand.
+- Evaluates the feasibility of desalination investments based on factors like water withdrawals, population, and saline water availability.
+
+### Current Progress
+- **Data Collection**: Compiled datasets from credible sources such as USGS, EPA, and Census Bureau.
+- **Data Preparation**: Calculated key metrics such as Water Stress Index (WSI), Per Capita Freshwater Demand, and Desalination Feasibility Score using Python and Excel.
+- **Dashboard Development**: 
+  - Created KPI cards for most water-stressed state, highest economic water demand, and best desalination site.
+  - Built an interactive map to visualize feasibility scores and water withdrawals across states.
+
+### Next Steps
+- Add interactive filters for region and feasibility score ranges.
+- Refine dashboard aesthetics by adding borders, legends, and enhanced tooltips.
+- Incorporate additional insights, such as renewable energy options for desalination plants.
+
+**Note:** This project is currently a work in progress. Updates will be added as the project evolves.
+
+**[View Tableau Dashboard](https://public.tableau.com/shared/765R489RJ?:display_count=n&:origin=viz_share_link)**
+
+
 #### 1. E-Commerce Sales
 
 **Overview:** This project provides insights into e-commerce sales performance using data from Kaggle. The objective was to monitor key performance metrics, analyze sales trends, and evaluate regional and product-specific performance.
